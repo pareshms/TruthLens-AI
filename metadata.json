@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens AI",
+  "description": "Enterprise-grade deepfake detection and media authentication platform using advanced AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
