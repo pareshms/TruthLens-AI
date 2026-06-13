@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+TruthLens AI is a multimodal verification system designed to combat deepfakes, fake news, and manipulated digital content. Using advanced AI models for computer vision, natural language processing, and explainable reasoning, the platform evaluates media authenticity and presents clear evidence supporting its verdict. Whether verifying a suspicious image, video, audio clip, or news article, TruthLens AI helps users distinguish fact from fabrication with transparency and confidence.
 
-# Run and deploy your AI Studio app
+Features
+🔍 Deepfake Image Detection
+🎥 Video Manipulation Analysis
+🎙️ AI Voice Clone Detection
+📰 Fake News Verification
+📊 Authenticity Score & Confidence Rating
+🧠 Explainable AI Reports
+📑 Metadata & Forensic Analysis
+🌐 Real-Time Fact Checking
+📱 Responsive Web Dashboard  
+# TruthLens AI
 
-This contains everything you need to run your app locally.
+🔗 Live Demo: https://truthlens-ai-504546163848.asia-southeast1.run.app
 
-View your app in AI Studio: https://ai.studio/apps/0388bc4f-afbb-4a32-973f-4fed539150ff
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+AI-powered deepfake and misinformation detection platform that analyzes images, videos, audio, and news content.
